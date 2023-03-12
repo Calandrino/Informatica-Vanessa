@@ -18,11 +18,11 @@ Scrivete un programma che chieda all'utente due numeri interi e, poi, visualizzi
 > Inserire il primo numero: 14
 > Inserire il secondo numero: 41
 
-Somma =  55
+Somma = 55
 Differenza = -27
 Prodotto = 574
-Valore medio =  27.5
-Distanza =  27
+Valore medio = 27.5
+Distanza = 27
 Valore massimo = 41
 Valore minimo = 14
 ```
