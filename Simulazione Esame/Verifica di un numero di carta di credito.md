@@ -1,5 +1,5 @@
 # Verifica di un numero di carta di credito
-L'ultima cifra di un numero di carta di credito è la **cifra di controllo**, che protegge il sistema da errori di trascrizione, come un errore che riguardi una singola cifra o lo scambio di duee cifre.
+L'ultima cifra di un numero di carta di credito è la **cifra di controllo**, che protegge il sistema da errori di trascrizione, come un errore che riguardi una singola cifra o lo scambio di due cifre.
 Il metodo seguente è quello effettivamente utilizzato per verificare la validità dei numeri di carta di credito, ma, per semplicità, lo descriveremo nel caso di numeri di 8 cifre anziché 16.
 
 Ipotizziamo che il numero da verificare di carta di credito sia: 43589795
