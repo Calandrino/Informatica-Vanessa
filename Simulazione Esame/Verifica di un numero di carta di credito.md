@@ -11,7 +11,7 @@ Nell'esempio precedente, il raddoppio dei numeri che non hanno fatto parte della
 
 Scrivete un programma che implementi questo algoritmo. L'utente deve fornire un numero di 8 cifre e il programma deve visualizzare un messaggio che dica se il numero della carta è valido o no.
 
-Nel caso in cui il numero della carta non è valido, il programma deve anche stampare a video il numero che la cifra di controllo dovrebbe avere per far sì che il numero sia valido.
+Nel caso in cui il numero della carta non sia valido, il programma deve anche stampare a video il numero che la cifra di controllo dovrebbe avere per far sì che il numero sia valido.
 
 #### Esempio di output 1
 ```
