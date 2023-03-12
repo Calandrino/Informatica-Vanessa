@@ -1,5 +1,5 @@
-num1 = int(input("Inserire il primo numero: "))
-num2 = int(input("Inserire il secondo numero: "))
+num1 = int(input("> Inserire il primo numero: "))
+num2 = int(input("> Inserire il secondo numero: "))
 
 print("Somma =", num1 + num2)
 print("Differenza =", num1 - num2)
